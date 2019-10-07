@@ -18,4 +18,5 @@
  <br>
  <h1>-Thông tin liên hệ Shop:</h1>
  <img src="ShopDia/img/8.png" /><br>
- <h1> Hãy ghé shop ủng hộ nhé!!!.</h1>
+ <h1> Hãy ghé shop ủng hộ nhé!!!<3.</h1>
+ 
